@@ -1,4 +1,4 @@
-package com.rhosseini.mvvmsample.network
+package com.rhosseini.mvvmsample.network.model
 
 class Movie(
     val id: Int,

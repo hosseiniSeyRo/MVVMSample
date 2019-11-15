@@ -1,4 +1,4 @@
-package com.rhosseini.mvvmsample.network
+package com.rhosseini.mvvmsample.network.model
 
 import com.google.gson.annotations.SerializedName
 
